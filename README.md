@@ -16,4 +16,4 @@ Sigue estos pasos para clonar, compilar y ejecutar el proyecto localmente.
 ### 1. Clonar el repositorio
 Abre tu terminal y ejecuta el siguiente comando para descargar el código:
 ```bash
-git clone [https://github.com/Garrrido10/](https://github.com/Garrrido10/)[NOMBRE_DEL_REPOSITORIO].git
+git clone [https://github.com/Garrrido10/](https://github.com/Garrrido10/)[RegresionLineal].git
